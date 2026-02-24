@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  ShopApp
-//
-//  Created by Ali Boztepe on 3.02.2026.
-//
-
 import UIKit
 
 @main
